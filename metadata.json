@@ -1,0 +1,6 @@
+{
+  "name": "TypeQuest",
+  "description": "Smart typing practice and learning game with guided 10-finger virtual keyboard, notebook OCR Scan & Type, Dictionary Word Typing with Hindi meanings, and Screen Timeout & Focus Control.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
